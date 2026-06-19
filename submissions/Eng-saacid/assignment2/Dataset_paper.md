@@ -112,11 +112,9 @@ Within the Data Science lifecycle, this dataset belongs primarily to the followi
 
 ## 8. Conclusion
 
-> 
-> 
-> The Employee Salary Prediction Dataset provides a practical example of data collection and preparation for machine learning. The dataset contains meaningful employee-related features and a numerical target variable, making it suitable for supervised machine learning regression tasks.
-> 
-> 
-> 
-> Future work will include preprocessing the data, handling missing values and duplicates, performing exploratory data analysis, training machine learning models, and evaluating prediction performance.
+ 
+
+The Employee Salary Prediction Dataset provides a practical example of data collection and preparation for machine learning. The dataset contains meaningful employee-related features and a numerical target variable, making it suitable for supervised machine learning regression tasks.
+
+Future work will include preprocessing the data, handling missing values and duplicates, performing exploratory data analysis, training machine learning models, and evaluating prediction performance.
 
